@@ -1,7 +1,6 @@
 package com.grupo2.PetWellness.services;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
 import com.grupo2.PetWellness.models.User;
 import com.grupo2.PetWellness.repositories.UserRepository;
@@ -22,9 +21,6 @@ public class AuthService {
 
     public boolean authenticateUser(String email, String password) {
         User user = userRepository.findByEmail(email);
-        if (user != null && passwordEncoder.matches(password, user.getPassword())) {
-            return true;
-        }
-        return false;
+        return user != null && passwordEncoder.matches(password, user.getPassword());
     }
 }

@@ -1,6 +1,7 @@
 package com.grupo2.PetWellness.models;
 
-import javax.persistence.*;
+import jakarta.persistence.*;
+import org.springframework.data.annotation.Id;
 
 @Entity
 @Table(name = "comments")
