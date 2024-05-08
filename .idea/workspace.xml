@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4a3028d3-de11-4461-adba-b738aeb2bb56" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../banking-service/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../banking-service/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../banking-service/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../banking-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../banking-service/src/main/java/com/hampcode/bankingservice/BankingServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../banking-service/src/main/java/com/hampcode/bankingservice/config/ModelMapperConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../banking-service/src/main/java/com/hampcode/bankingservice/config/OpenAPIConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../banking-service/src/main/java/com/hampcode/bankingservice/config/RestExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../banking-service/src/main/java/com/hampcode/bankingservice/controllers/AccountController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../banking-service/src/main/java/com/hampcode/bankingservice/controllers/TransactionController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../banking-service/src/main/java/com/hampcode/bankingservice/exceptions/BadRequestException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../banking-service/src/main/java/com/hampcode/bankingservice/exceptions/ResourceDuplicateException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../banking-service/src/main/java/com/hampcode/bankingservice/exceptions/ResourceNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../banking-service/src/main/java/com/hampcode/bankingservice/mapper/AccountMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../banking-service/src/main/java/com/hampcode/bankingservice/mapper/TransactionMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../banking-service/src/main/java/com/hampcode/bankingservice/model/dto/AccountRequestDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../banking-service/src/main/java/com/hampcode/bankingservice/model/dto/AccountResponseDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../banking-service/src/main/java/com/hampcode/bankingservice/model/dto/TransactionReportDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../banking-service/src/main/java/com/hampcode/bankingservice/model/dto/TransactionRequestDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../banking-service/src/main/java/com/hampcode/bankingservice/model/dto/TransactionResponseDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../banking-service/src/main/java/com/hampcode/bankingservice/model/entities/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../banking-service/src/main/java/com/hampcode/bankingservice/model/entities/Transaction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../banking-service/src/main/java/com/hampcode/bankingservice/repository/AccountRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../banking-service/src/main/java/com/hampcode/bankingservice/repository/TransactionRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../banking-service/src/main/java/com/hampcode/bankingservice/services/AccountService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../banking-service/src/main/java/com/hampcode/bankingservice/services/TransactionService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../banking-service/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../banking-service/src/test/java/com/hampcode/bankingservice/BankingServiceApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2gAUsVOVz5U6k3cKXdAsDdxDU6j" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Nico/chUPAO/Transaccionales/PetWellness-api",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Nico\chUPAO\Transaccionales\PetWellness-api\PetWellness-restAPI\src\test\java" />
+      <recent name="D:\Nico\chUPAO\Transaccionales\PetWellness-api\PetWellness-restAPI\src\main\java" />
+      <recent name="D:\Nico\chUPAO\Transaccionales\PetWellness-api\PetWellness-restAPI\src\main" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a3028d3-de11-4461-adba-b738aeb2bb56" name="Changes" comment="" />
+      <created>1715140082817</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715140082817</updated>
+      <workItem from="1715140083841" duration="2180000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
