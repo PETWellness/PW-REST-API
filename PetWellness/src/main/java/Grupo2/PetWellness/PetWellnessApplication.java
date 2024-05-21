@@ -1,4 +1,4 @@
-package com.grupo2.PetWellness;
+package Grupo2.PetWellness;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.grupo2.PetWellness;
+package Grupo2.PetWellness;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
