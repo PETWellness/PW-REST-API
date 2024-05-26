@@ -14,11 +14,8 @@ public class Users {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private long id;
 
-    @Column (name = "owner_firstname", nullable = false)
-    private String firstname;
-
-    @Column (name = "owner_lastname", nullable = false)
-    private String lastname;
+    @Column (name = "owner_name", nullable = false)
+    private String ownerName;
 
     @Column (name = "owner_email", nullable = false, unique = true)
     private String email;
