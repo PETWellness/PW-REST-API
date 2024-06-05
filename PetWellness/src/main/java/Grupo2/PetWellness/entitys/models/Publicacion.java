@@ -1,4 +1,4 @@
-package Grupo2.PetWellness.models;
+package Grupo2.PetWellness.entitys.models;
 
 
 import jakarta.persistence.*;
