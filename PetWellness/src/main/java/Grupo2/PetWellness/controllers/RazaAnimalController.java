@@ -1,6 +1,6 @@
 package Grupo2.PetWellness.controllers;
 
-import Grupo2.PetWellness.models.RazaAnimal;
+import Grupo2.PetWellness.entitys.models.RazaAnimal;
 import Grupo2.PetWellness.services.RazaAnimalService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
