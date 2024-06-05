@@ -1,4 +1,4 @@
-package Grupo2.PetWellness.DTOs;
+package Grupo2.PetWellness.entitys.DTOs;
 
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
