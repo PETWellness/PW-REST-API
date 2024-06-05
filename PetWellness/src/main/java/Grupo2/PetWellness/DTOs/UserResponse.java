@@ -10,9 +10,9 @@ import lombok.NoArgsConstructor;
 public class UserResponse {
 
     private long id;
-    private String ownerName;
+    private String owner_FirstName;
+    private String owner_LastName;
     private String email;
-    private String password;
     private String imgprofile;
 
 

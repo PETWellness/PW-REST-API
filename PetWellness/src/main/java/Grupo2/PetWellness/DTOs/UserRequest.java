@@ -25,7 +25,10 @@ public class UserRequest {
     private long id;
 
     @NotBlank(message = "El  nombre no puede estar vacío")
-    private String ownerName;
+    private String owner_FirstName;
+
+    @NotBlank(message = "El  apellido no puede estar vacío")
+    private String owner_LastName;
 
     @NotBlank(message = "El correo no puede estár vacío")
     @Email
